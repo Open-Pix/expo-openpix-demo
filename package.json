@@ -17,7 +17,7 @@
     "styled-components": "^5.2.1",
     "styled-system": "^5.1.5",
     "uuid": "^8.3.2",
-    "core-js": "^3.9.1"
+    "core-js": "^3.22.5"
   },
   "devDependencies": {
     "@babel/core": "~7.9.0",
