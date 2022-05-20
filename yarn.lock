@@ -5662,10 +5662,10 @@ react-native-status-bar-height@^2.5.0:
   resolved "https://registry.yarnpkg.com/react-native-status-bar-height/-/react-native-status-bar-height-2.6.0.tgz#b6afd25b6e3d533c43d0fcdcfd5cafd775592cea"
   integrity sha512-z3SGLF0mHT+OlJDq7B7h/jXPjWcdBT3V14Le5L2PjntjjWM3+EJzq2BcXDwV+v67KFNJic5pgA26cCmseYek6w==
 
-react-native-styled-toast@^1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-styled-toast/-/react-native-styled-toast-1.1.1.tgz#5b140e19aa78a643155929c81494ef76861d5a3d"
-  integrity sha512-LvadZRXzq591/ZbtQBMwL4G7tnkpYHEMQPAYro7QOM8AjzvhY4alM5YDRxoxthxn5d3QgmJc+o0dz94vyG4oZw==
+react-native-styled-toast@^1.3.1:
+  version "1.3.1"
+  resolved "https://registry.yarnpkg.com/react-native-styled-toast/-/react-native-styled-toast-1.3.1.tgz#7486aa30aef4a73fe2629bb9b5f1dd96e6b35f2c"
+  integrity sha512-slXBr9O1NcqB7Mj6058Iv1O6WZ/XDZuOhOIFXqM82PjJji6QG/La9W3BNRgqMG6i7d3wSDr95YkuapPJlEobWw==
   dependencies:
     "@types/styled-components" "^5.1.1"
     react-native-status-bar-height "^2.5.0"
