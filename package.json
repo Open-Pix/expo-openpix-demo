@@ -28,7 +28,7 @@
     "@types/styled-components": "^5.1.7",
     "@types/styled-system": "^5.1.10",
     "@types/uuid": "^8.3.0",
-    "babel-plugin-inline-dotenv": "^1.6.0",
+    "babel-plugin-inline-dotenv": "^1.7.0",
     "typescript": "~4.0.0"
   },
   "main": "node_modules/expo/AppEntry.js",
