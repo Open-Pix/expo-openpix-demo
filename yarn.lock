@@ -2217,22 +2217,14 @@
   dependencies:
     "@types/react" "*"
 
-"@types/react-native@~0.67.7":
-  version "0.67.7"
-  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.67.7.tgz#903b7d56fb6a95ca0de897f2925c04ee0d4adee3"
-  integrity sha512-G7vi9vE226diNNXVNbIa8HH/wPxMWHTHkn9iQtQSezaWzO5WNsKZZW2/TOzCehtBDVx4MZieTs6GsdtpBBttMA==
+"@types/react-native@~0.67.8":
+  version "0.67.8"
+  resolved "https://registry.yarnpkg.com/@types/react-native/-/react-native-0.67.8.tgz#edaaa0527b835fffbfc34c09874722b6e4a4d1f3"
+  integrity sha512-xA8rYiTHvO6RoZv/LFnmEeqRuhA2y34mGB8zX3bGHe/pCt9jEStUPyUO4q1KcDc9GiGIOBD8ArfRtThprAjSfQ==
   dependencies:
     "@types/react" "*"
 
-"@types/react@*":
-  version "17.0.2"
-  resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.2.tgz#3de24c4efef902dd9795a49c75f760cbe4f7a5a8"
-  integrity sha512-Xt40xQsrkdvjn1EyWe1Bc0dJLcil/9x2vAuW7ya+PuQip4UYUaXyhzWmAbwRsdMgwOFHpfp7/FFZebDU6Y8VHA==
-  dependencies:
-    "@types/prop-types" "*"
-    csstype "^3.0.2"
-
-"@types/react@~17.0.21":
+"@types/react@*", "@types/react@~17.0.21":
   version "17.0.45"
   resolved "https://registry.yarnpkg.com/@types/react/-/react-17.0.45.tgz#9b3d5b661fd26365fefef0e766a1c6c30ccf7b3f"
   integrity sha512-YfhQ22Lah2e3CHPsb93tRwIGNiSwkuz1/blk4e6QrWS0jQzCSNbGLtOEYhPg02W0yGTTmpajp7dCTbBAMN3qsg==
