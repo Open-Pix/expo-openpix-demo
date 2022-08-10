@@ -2148,16 +2148,16 @@
     "@styled-system/core" "^5.1.2"
     "@styled-system/css" "^5.1.5"
 
-"@testing-library/jest-native@^4.0.5":
-  version "4.0.5"
-  resolved "https://registry.yarnpkg.com/@testing-library/jest-native/-/jest-native-4.0.5.tgz#4f8c000bcf46f1fdb9ab032271e4252b1defc0ff"
-  integrity sha512-SwtoZmNGjYC88CBCIf8FJxQD6vGv942zIgJwVK0/WgT/j77t6dDM1kkvaMaQy/poyjHnsq4QH5FgxNZLg5PenA==
+"@testing-library/jest-native@^4.0.8":
+  version "4.0.8"
+  resolved "https://registry.yarnpkg.com/@testing-library/jest-native/-/jest-native-4.0.8.tgz#f0f7a88aa1a0db81a68414af35b0c7b9ea178fc0"
+  integrity sha512-GFxqifY3iHAU5BE9YobRDIhhuO+Ok2wbMiMXehQHa6B+f63JzKw/35xU/5seTiQUTgiEkqGHy0RRXns+XYnSDw==
   dependencies:
     chalk "^2.4.1"
     jest-diff "^27.4.6"
     jest-matcher-utils "^27.4.6"
     pretty-format "^27.3.1"
-    ramda "^0.26.1"
+    ramda "^0.28.0"
     redent "^2.0.0"
 
 "@testing-library/react-native@^9.1.0":
@@ -7098,10 +7098,10 @@ queue-microtask@^1.2.2:
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
-ramda@^0.26.1:
-  version "0.26.1"
-  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.26.1.tgz#8d41351eb8111c55353617fc3bbffad8e4d35d06"
-  integrity sha512-hLWjpy7EnsDBb0p+Z3B7rPi3GDeRG5ZtiI33kJhTt+ORCd38AbAIjB/9zRIUoeTbE/AVX5ZkU7m6bznsvrf8eQ==
+ramda@^0.28.0:
+  version "0.28.0"
+  resolved "https://registry.yarnpkg.com/ramda/-/ramda-0.28.0.tgz#acd785690100337e8b063cab3470019be427cc97"
+  integrity sha512-9QnLuG/kPVgWvMQ4aODhsBUFKOUmnbUnsSXACv+NCQZcHbeb+v8Lodp8OVxtRULN1/xOyYLLaL6npE6dMq5QTA==
 
 range-parser@~1.2.1:
   version "1.2.1"
