@@ -2323,10 +2323,10 @@
     "@types/react" "*"
     csstype "^3.0.2"
 
-"@types/styled-system@^5.1.20":
-  version "5.1.20"
-  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.20.tgz#6387c3c8ac88e35bdc5f7d7263e7bc132c26ccc3"
-  integrity sha512-oiaziko13jwrjmOCYfosXds7ZoPtWyBU96ONYtmYL2c+yh/yjcqVDs+w78VpTHLwZZ01yU9//ZyIhxqay8vbCw==
+"@types/styled-system@^5.1.21":
+  version "5.1.21"
+  resolved "https://registry.yarnpkg.com/@types/styled-system/-/styled-system-5.1.21.tgz#937b0da9f6367e0eef9caf5eb536c0e26cf32818"
+  integrity sha512-8uqIyIAUYH+ufoyNMNDxqmrXXmTiyJKgtsxprpRMxw078TTuUtJyWUELbaEnkjtic0thouFkei3NVlGlM86KiA==
   dependencies:
     csstype "^3.0.2"
 
